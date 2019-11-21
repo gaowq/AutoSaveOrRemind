@@ -1,0 +1,9 @@
+C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.csprojAssemblyReference.cache
+C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.Properties.Resources.resources
+C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.csproj.GenerateResource.cache
+C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\bin\Debug\AutoSaveOrRemind.exe.config
+C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\bin\Debug\AutoSaveOrRemind.exe
+C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\bin\Debug\AutoSaveOrRemind.pdb
+C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.exe
+C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.pdb
+C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.Form1.resources
