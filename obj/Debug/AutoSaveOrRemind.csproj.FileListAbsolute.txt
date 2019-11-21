@@ -7,3 +7,11 @@ C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\bin\Debug\AutoSaveOrRem
 C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.exe
 C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.pdb
 C:\Users\gaowenquan.COLIPU\source\repos\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.Form1.resources
+D:\文档\程序\AutoSaveOrRemind\bin\Debug\AutoSaveOrRemind.exe.config
+D:\文档\程序\AutoSaveOrRemind\bin\Debug\AutoSaveOrRemind.exe
+D:\文档\程序\AutoSaveOrRemind\bin\Debug\AutoSaveOrRemind.pdb
+D:\文档\程序\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.Form1.resources
+D:\文档\程序\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.Properties.Resources.resources
+D:\文档\程序\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.csproj.GenerateResource.cache
+D:\文档\程序\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.exe
+D:\文档\程序\AutoSaveOrRemind\obj\Debug\AutoSaveOrRemind.pdb
